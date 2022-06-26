@@ -1,2 +1,1 @@
-# pgp-public-key
-Current PGP public keys
+PGP public key fingerprint: CC62 A990 773D 843D 7E27  3E0D 6350 0E3E B057 5884
